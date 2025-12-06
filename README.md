@@ -1,7 +1,9 @@
-Subscription Performance and Churn using LightGBM
+**Subscription Performance and Churn using LightGBM
+**
 This project aims to identify customer churn using LightGBM, an efficient gradient boosting algorithm. The goal is to identify customers who are likely to cancel their subscriptions so proper steps can be taken to retain them. 
 
-About Dataset:
+**About Dataset:
+**
 The dataset used is the Customer Subscription Data from Kaggle. This dataset contains information related to a subscription-based digital product offering financial advisory that includes newsletters, webinars, and investment recommendations. 
 The data set contains the following information:
 Customer sign-up and cancellation dates
