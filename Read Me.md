@@ -42,6 +42,7 @@ These insights helped in understanding behavior patterns and identifying the mos
 
 **Model Implementation and Evaluation:**  
 Implemented LightGBM model due to its ability to handle large datasets and strong performance for classification tasks.  
+Applied hyperparameter tuning with RandomizedSearchCV and used the optimal parameters to fit the final LightGBM model.
 The model is evaluated on the test set evaluated using Accuracy, Precision, Recall, F1-score, ROC-AUC and Confusion Matrix.  
 Identified feature importance and eliminated less important features.
 
